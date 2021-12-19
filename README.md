@@ -1,0 +1,1 @@
+# syvita-mining-discord-win-notifier
