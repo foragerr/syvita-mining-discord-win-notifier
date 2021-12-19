@@ -1,0 +1,8 @@
+{
+    "wallet_address" : "SFJSDJFO4ISDFSDFDJOWJ4OISJOIDFO2ISJDFOIS",
+    "pool_id" : "Pool X",
+    "wallet_funds" : "100000",
+    "discord_webhook" : "https://discord.com/api/webhooks/<>",
+    "discord_webhook_test": "https://discord.com/api/webhooks/<>",
+    "mining_start_block" : "41979"
+}
